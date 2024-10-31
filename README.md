@@ -117,13 +117,6 @@ gestion-bibliotheque/
 4. Push vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrez une Pull Request
 
-## 📝 License
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
-
-## ✍️ Auteurs
-
-- **Votre Nom** - *Travail Initial* - [VotreUsername](https://github.com/VotreUsername)
 
 ## 🙏 Remerciements
 
