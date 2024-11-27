@@ -2,8 +2,6 @@
 
 Un système simple de gestion de bibliothèque en PHP permettant de gérer une collection de livres via une interface en ligne de commande.
 
-## 📚 Description
-
 Ce projet a été développé dans le cadre d'un exercice d'algorithmie en PHP. Il permet de :
 - Ajouter des livres à la bibliothèque
 - Modifier les informations des livres
@@ -12,13 +10,7 @@ Ce projet a été développé dans le cadre d'un exercice d'algorithmie en PHP. 
 - Rechercher des livres
 - Trier les livres selon différents critères
 
-## 🔧 Prérequis
-
-- PHP 7.4 ou supérieur
-- Terminal ou invite de commande
-- Git (pour cloner le projet)
-
-## 📥 Installation
+##  Installation
 
 1. Cloner le repository :
 ```bash
@@ -30,11 +22,11 @@ git clone https://github.com/votre-username/gestion-bibliotheque.git
 cd gestion-bibliotheque
 ```
 
-## 💻 Utilisation
+## Utilisation
 
 Pour lancer l'application :
 ```bash
-php library.php
+php index.php
 ```
 
 ### Menu Principal
@@ -81,30 +73,19 @@ Gestion de Bibliothèque
 - Recherche par différents critères
 - Affichage des résultats détaillés
 
-## 📁 Structure du Projet
+## Structure du Projet
 
 ```
 gestion-bibliotheque/
 │
-├── library.php          # Fichier principal
-├── README.md           # Documentation
-│
+├── index.php          # Fichier principal
 └── src/                # Dossier source (si vous décidez de séparer le code)
     ├── Book.php        # Classe Book
     ├── Library.php     # Classe Library
     └── LibraryApp.php  # Interface utilisateur
 ```
 
-## 🔍 Algorithmes Utilisés
+## Algorithmes Utilisés
 
 - Tri à bulles pour le tri des livres
 - Recherche séquentielle pour la recherche des livres
-
-## 🛠️ Points d'Amélioration Prévus
-
-- [ ] Implémentation d'une base de données
-- [ ] Amélioration des algorithmes de tri (merge sort)
-- [ ] Ajout de la recherche binaire
-- [ ] Validation plus poussée des entrées
-- [ ] Tests unitaires
-- [ ] Interface graphique
