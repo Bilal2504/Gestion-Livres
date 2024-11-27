@@ -1,0 +1,17 @@
+[
+    {
+        "action": "Ajout d'un livre",
+        "details": "ID: 6746e61fddb77, Nom: League of Legends",
+        "timestamp": "2024-11-27 09:27:59"
+    },
+    {
+        "action": "Recherche d'un livre",
+        "details": "ID: 6746e61fddb77",
+        "timestamp": "2024-11-27 09:29:04"
+    },
+    {
+        "action": "Liste des livres",
+        "details": "Nombre de livres affich\u00e9s: 1",
+        "timestamp": "2024-11-27 09:31:32"
+    }
+]
